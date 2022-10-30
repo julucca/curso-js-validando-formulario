@@ -1,13 +1,9 @@
-<p align="center"> <img src="https://imgur.com/mIBmcEL.png" alt="Javascript: validando formulários"> </p>
+<h1>JavaScript: validando formulários | Alura</h1>
 
-<hr>
+<p align="right">:construction: Projeto em desenvolvimento  :construction:</p>
 
-<p align="center"> <img src="https://github.com/MonicaHillman/aluraplay-requisicoes/blob/main/img/logo.png" alt="Logo da Alura"> </p>
-<p align="center">Formulário de criação de contas para o banco virtual MoniBank.</p>
+<p>Repositório utilizado durante o curso "JavaScript: validando formulários" da Alura Cursos Online.</p>
 
-## Tecnologias utilizadas durante o curso
-* JavaScript
+<p>A proposta deste treinamento é implementar validações nos campos do formulário de cadastro do MoniBank, um banco fictício.</p>
 
-## Tecnologias utilizadas no projeto
-* HTML
-* CSS
+<p>O commit inicial é referente ao projeto base previamente disponibilizado pelo curso. Os demais commits são referentes as alterações realizadas durante o treinamento.</p>
