@@ -103,6 +103,7 @@ function verificaCampo(campo) {
         // Imprime mensagem no span se validadorDeInput for false
         if (!validadorDeInput) {
             mensagemErro.textContent = mensagem;
+            campo.style.border = "2px solid red";
         } else {
             mensagemErro.textContent = "";
         }

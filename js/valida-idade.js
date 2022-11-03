@@ -4,6 +4,8 @@ export default function ehMaiorDeIdade(campo) {
     // Atribui outro valor para o setCustomValidity para ativar customError 
     if (!validaIdade(dataNascimento)) {
         campo.setCustomValidity("O usuário não é maior de idade");
+
+        // campo.style.border = "2px solid red";
     }
 }
 
