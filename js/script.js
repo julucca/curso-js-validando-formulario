@@ -106,6 +106,7 @@ function verificaCampo(campo) {
             campo.style.border = "2px solid red";
         } else {
             mensagemErro.textContent = "";
+            campo.style.border = "2px solid #6BD1FF";
         }
     })
 }

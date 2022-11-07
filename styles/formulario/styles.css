@@ -126,6 +126,8 @@
 }
 
 .mensagem-erro {
+    display: block;
+    margin: .4em 0 0 .4em;
     color: red;
 }
 
